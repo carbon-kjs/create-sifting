@@ -2,7 +2,7 @@
   "name": "create-sifting",
   "version": "1.0.0",
   "author": "Malezja",
-  "minecraftVersion": "1.19.2",
+  "minecraftVersion": ["1.19.2"],
   "description": "Adds custom meshes and drops to Create Sifting (required). Replace <modpack_name> in files with your modpack name. Don't forget about 'your_modpack_name' folder in assets.",
   "modloaders": ["forge"]
 }
